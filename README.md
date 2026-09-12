@@ -42,3 +42,24 @@ TOOLS & SYSTEMS
   Docker        PostgreSQL
   MySQL
 ```
+## `// selected work`
+
+### [Auto-Report](https://github.com/0xV3IL/Auto-Report)
+
+Web application for displaying automated test reports.
+
+`HTML` `JavaScript`
+
+### [Smart Inventory](https://github.com/UAS-PBO-TIB/Smart-Inventory-Manajement)
+
+Desktop inventory management system built around
+MVC + DAO architecture.
+
+`Java` `PostgreSQL`
+
+### [Meter-to-Feet Converter](https://github.com/IrfanOesman/aplikasi-konversi-jarak)
+
+A simple converter application for meter to feet and otherwise..
+
+`Web` `Maths` `Calculator`
+
