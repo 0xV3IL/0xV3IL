@@ -7,11 +7,11 @@ Building software. Understanding systems.
 ```text
 $ currently
 
-  [+]building        software & systems
-  [+]learning        security & low-level concepts
-  [+]exploring       web / forensics / networks
-  [+]running         Linux
-  [-]touching grass
+  [+] building        software & systems
+  [+] learning        security & low-level concepts
+  [+] exploring       web / forensics / networks
+  [+] running         Linux
+  [-] touching grass
 ```
 
 ## `// about`
@@ -19,7 +19,7 @@ $ currently
 Software engineering student.
 
 I build things, take them apart, and try to understand
-what makes them work.
+how they work underneath.
 
 Currently interested in software architecture, systems,
 and security.
@@ -33,7 +33,7 @@ LANGUAGES
   JavaScript    Python
   C++           SQL
 
-BACKEND
+FRAMEWORKS & RUNTIME
 
   Laravel       Node.js
 
@@ -57,12 +57,6 @@ Desktop inventory management system built around
 MVC + DAO architecture.
 
 `Java` `PostgreSQL`
-
-### [Meter-to-Feet Converter](https://github.com/IrfanOesman/aplikasi-konversi-jarak)
-
-A simple converter application for meter to feet and otherwise..
-
-`Web` `Maths` `Calculator`
 
 ## `// rabbit holes`
 
