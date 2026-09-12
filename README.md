@@ -11,3 +11,14 @@ $ currently
   learning        security & low-level concepts
   exploring       web / forensics / CTF
   running         Linux
+```
+
+## `// about`
+
+Software engineering student.
+
+I build things, take them apart, and try to understand
+what makes them work.
+
+Currently interested in software architecture, systems,
+and security.
