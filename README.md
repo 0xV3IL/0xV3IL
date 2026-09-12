@@ -18,7 +18,8 @@ $ currently
 
 Software engineering student.
 
-building things. breaking things. learning why.
+I build things, take them apart, and try to understand
+what makes them work.
 
 Currently interested in software architecture, systems,
 and security.
