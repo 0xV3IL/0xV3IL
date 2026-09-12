@@ -22,3 +22,23 @@ what makes them work.
 
 Currently interested in software architecture, systems,
 and security.
+
+## `// stack`
+
+```text
+LANGUAGES
+
+  Java          PHP
+  JavaScript    Python
+  C++           SQL
+
+BACKEND
+
+  Laravel       Node.js
+
+TOOLS & SYSTEMS
+
+  Linux         Git
+  Docker        PostgreSQL
+  MySQL
+```
