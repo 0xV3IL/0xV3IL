@@ -7,18 +7,18 @@ Building software. Understanding systems.
 ```text
 $ currently
 
-  building        software & systems
-  learning        security & low-level concepts
-  exploring       web / forensics / CTF
-  running         Linux
+  [+]building        software & systems
+  [+]learning        security & low-level concepts
+  [+]exploring       web / forensics / networks
+  [+]running         Linux
+  [-]touching grass
 ```
 
 ## `// about`
 
 Software engineering student.
 
-I build things, take them apart, and try to understand
-what makes them work.
+building things. breaking things. learning why.
 
 Currently interested in software architecture, systems,
 and security.
@@ -63,3 +63,8 @@ A simple converter application for meter to feet and otherwise..
 
 `Web` `Maths` `Calculator`
 
+## `// rabbit holes`
+
+Things I tend to disappear into:
+
+`web` · `forensics` · `reverse engineering` · `networks` · `systems`
