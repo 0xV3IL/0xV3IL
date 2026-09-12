@@ -69,3 +69,9 @@ A simple converter application for meter to feet and otherwise..
 Things I tend to disappear into:
 
 `web` · `forensics` · `reverse engineering` · `networks` · `systems`
+
+---
+
+> understand the system before trying to change it.
+
+`0xV3IL`
